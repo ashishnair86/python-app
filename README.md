@@ -7,3 +7,5 @@ mkdir -p to-do-list/{static,templates,venv} && touch to-do-list/{app.py,requirem
 source myenv/bin/activate
 python app.py
 
+
+source: https://medium.com/@wojtekszczerbinski/project-12-build-a-to-do-list-web-application-using-python-flask-mysql-a54e9a5c8176
